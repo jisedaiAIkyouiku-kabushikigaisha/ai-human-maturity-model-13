@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "AI人材成熟モデル13段階・現在地確認フレーム"
+message: "本モデルを引用・参照する場合は、可能な範囲で本リポジトリを出典として記載してください。"
+type: dataset
+authors:
+  - name: "次世代AI教育株式会社"
+version: "1.0"
+date-released: "2026-06-16"
+repository-code: "https://github.com/jisedaiAIkyouiku-kabushikigaisha/ai-human-maturity-model-13"
+license: "CC-BY-4.0"
+keywords:
+  - AI
+  - AI人材
+  - AI研修
+  - AI活用
+  - 人材育成
+  - 現在地確認
+  - 社会実装
